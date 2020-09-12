@@ -7,9 +7,9 @@
 ------
 <details>
   <summary>Ссылки </summary>
-  <a href="https://discord.gg/zNzQdBx">
-  <img alt="Discord" width="24" height="24" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/discord.svg" />
-</a>
+  <a href="http://747.rf.gd">
+  Мой сайт
+  </a>
 </details>
 Я Русский разработчик, меня зовут Димитрий, не знаю чего бы ещё добавить, а шо?
 
