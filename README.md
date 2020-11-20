@@ -13,11 +13,11 @@
 <br>
 
 <a href="https://github.com/opqgz">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=opqgz&show_icons=true&include_all_commits=true&theme=tokyonight&locale=ru&custom_title=Статистика&show_owner=true&card_width=400&layout=compact">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=opqgz&show_icons=true&include_all_commits=true&theme=tokyonight&locale=ru&custom_title=Статистика&show_owner=true&card_width=400&layout=default">
 </a>
 <br>
 <a href="https://github.com/opqgz">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=opqgz&layout=compact&theme=tokyonight&locale=ru&custom_title=Ван%20лав%20лангуагес&show_owner=true&card_width=400&layout=compact">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=opqgz&layout=compact&theme=tokyonight&locale=ru&custom_title=Ван%20лав%20лангуагес&show_owner=true&card_width=600&layout=default">
 </a>
 
 <br>
