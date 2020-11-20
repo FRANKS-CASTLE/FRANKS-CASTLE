@@ -13,11 +13,11 @@
 <br>
 
 <a href="https://github.com/opqgz">
-  <img width="400" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=opqgz&show_icons=true&include_all_commits=true&theme=gruvbox&locale=ru">
+  <img width="400" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=opqgz&show_icons=true&include_all_commits=true&theme=tokyonight&locale=ru">
 </a>
 <br>
 <a href="https://github.com/opqgz">
-  <img width="400 align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=opqgz&layout=compact&theme=gruvbox&locale=ru">
+  <img width="400 align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=opqgz&layout=compact&theme=tokyonight&locale=ru">
 </a>
 
 <br>
