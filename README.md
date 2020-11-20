@@ -17,7 +17,7 @@
 </a>
 <br>
 <a href="https://github.com/opqgz">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=opqgz&layout=compact&theme=tokyonight&locale=ru&custom_title=Ван%20лав%20лангуагес&show_owner=true&card_width=480&layout=default&langs_count=10">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=opqgz&layout=compact&theme=tokyonight&locale=ru&custom_title=Ван%20лав%20лангуагес&show_owner=true&card_width=490&layout=default&langs_count=10">
 </a>
 
 <br>
