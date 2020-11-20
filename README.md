@@ -8,18 +8,19 @@
   Мой сайт
   </a>
 </details>
+
 <br>
 <br>
 
-```py
+<a href="https://github.com/opqgz">
+  <img width="400" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=opqgz&show_icons=true&include_all_commits=true&theme=dark">
+</a>
+<br>
+<a href="https://github.com/opqgz">
+  <img width="400 align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=opqgz&layout=compact&theme=dark">
+</a>
 
-user = {
-  'name': 'i0x',
- ```
-
-<a href="https://github.com/opqgz"><img width="400" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=opqgz&show_icons=true&include_all_commits=true&theme=dark"></a><br>
-<a href="https://github.com/opqgz"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=opqgz&layout=compact&theme=dark" /></a>
-
-<br><br>
+<br>
+<br>
 
 Я пишу **</>** с ❤️
